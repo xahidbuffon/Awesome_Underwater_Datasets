@@ -7,6 +7,7 @@
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320).
 - Jamaica Port Royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
 - Virtual Periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
+- UIEBD: [Data](https://li-chongyi.github.io/homepage.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495).
 
 
 ### Image super-resolution
@@ -47,6 +48,7 @@
 - Labeled fishes: [Data](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/), [Paper](https://ieeexplore.ieee.org/abstract/document/7046815).
 - Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
 - Fish database: [Data](http://www.fishdb.co.uk/).
+- AQUALIFEIMAGES database: [Data](http://www.aqualifeimages.com/).
 
 
 #### Trash/debris
