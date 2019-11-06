@@ -1,15 +1,11 @@
 ![det-1a](/ims/paired_euvp.jpg)
 
 ### Automatic Image Enhancement
-- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code.](https://github.com/xahidbuffon/funie-gan). (Paired and unpaired data)
+- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (Paired and unpaired data)
+- Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
+- RUIE benchmark: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1901.05320), [Code](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark).
+- Jamaica Port Royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
 
-
-| Dataset  | Resource   | Other Information |
-|:------------------------|:---------------------|:---------------------|
-| [EUVP dataset](http://irvlab.cs.umn.edu/resources/euvp-dataset) | [Paper.](https://arxiv.org/abs/1903.09766) [Code.](https://github.com/xahidbuffon/funie-gan). | Paired and unpaired data |
-| [Underwater imagenet](http://irvlab.cs.umn.edu/resources/) | [Paper.](https://ieeexplore.ieee.org/document/8460552) [Code.](https://github.com/cameronfabbri/Underwater-Color-Correction). | Paired data |
-| [RUIE benchmark](http://irvlab.cs.umn.edu/resources/euvp-dataset) | [Paper.](https://arxiv.org/abs/1901.05320) [Code.](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark). |  |
-| [Jamaica Port Royal](https://github.com/kskin/WaterGAN/) | [Paper.](https://arxiv.org/abs/1702.07392) [Code.](https://github.com/kskin/WaterGAN/). |  |
 
 
 ### Image Super-Resolution
