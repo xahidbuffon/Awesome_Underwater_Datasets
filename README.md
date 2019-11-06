@@ -1,11 +1,12 @@
 ![det-1](/ims/paired_euvp.jpg)
 
-### Automatic image enhancement
+### Image enhancement and/or color correction
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). Paired and unpaired data)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320).
 - Jamaica Port Royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
+- Virtual Periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
 
 
 ### Image super-resolution
@@ -20,6 +21,8 @@
 
 ### Stereo data
 - Tasmania Coral Point, Scott Reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
+- Stereo from Flicker: [Data](http://webee.technion.ac.il/~yoav/research/flicker.html), [Paper](https://ieeexplore.ieee.org/abstract/document/6528294).
+- CADDY stereo data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it/), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
 
 
 ### Object detection and/or classification
@@ -32,6 +35,7 @@
 #### Human divers, robots
 - Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
 - Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
+- CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
 
 
 #### Coral-reef
