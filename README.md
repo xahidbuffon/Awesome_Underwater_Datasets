@@ -1,7 +1,7 @@
 ### 1. Image enhancement, color correction, restoration
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (Paired and unpaired data; FUnIE-GAN)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data; UGAN)
-- U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
+- U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
 - UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/DUIENet_Code). (DUIE-Net)
 - Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
@@ -20,7 +20,7 @@
 
 
 ### 4. Stereo data
-- Tasmania Coral Point, Scott Reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
+- Tasmania coral point, Scott reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
 - Stereo from Flicker: [Data](http://webee.technion.ac.il/~yoav/research/flicker.html), [Paper](https://ieeexplore.ieee.org/abstract/document/6528294).
 - CADDY stereo data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it/), [Paper](https://www.mdpi.com/2077-1312/7/1/16).
 - HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272). (UWStereoNet)
@@ -31,8 +31,9 @@
 - MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
 - MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
 - HabCam database: [Data](https://habcam.whoi.edu/).
-- OUC-Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
+- OUC-vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
 - MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
+- NOAA data: [Data](https://data.world/datasets/underwater)
 
 
 #### B. Divers, robots
@@ -42,7 +43,7 @@
 
 
 #### C. Coral-reef
-- Moorea Corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
+- Moorea corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
 - Coral-reef Puerto Rico: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/coral-reef-puerto-rico/).
 - Coral-Net: [Data](https://coralnet.ucsd.edu/).
 
