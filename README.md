@@ -28,35 +28,35 @@
 
 ### 5. Object detection and/or classification
 #### A. General
-- MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
-- MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
-- HabCam database: [Data](https://habcam.whoi.edu/).
-- OUC-Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
-- MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
+	- MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
+	- MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
+	- HabCam database: [Data](https://habcam.whoi.edu/).
+	- OUC-Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
+	- MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
 
 
 #### B. Divers, robots
-- Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
-- Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
-- CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
+	- Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
+	- Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
+	- CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
 
 
 #### C. Coral-reef
-- Moorea Corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
-- Coral-reef Puerto Rico: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/coral-reef-puerto-rico/).
-- Coral-Net: [Data](https://coralnet.ucsd.edu/).
+	- Moorea Corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
+	- Coral-reef Puerto Rico: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/coral-reef-puerto-rico/).
+	- Coral-Net: [Data](https://coralnet.ucsd.edu/).
 
 
 #### D. Fish
-- WildFish database: [Data](https://github.com/PeiqinZhuang/WildFish), [Paper](https://dl.acm.org/citation.cfm?id=3240616).
-- Labeled fishes: [Data](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/), [Paper](https://ieeexplore.ieee.org/abstract/document/7046815).
-- Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
-- Fish database: [Data](http://www.fishdb.co.uk/).
-- AQUALIFEIMAGES database: [Data](http://www.aqualifeimages.com/).
-- Rockfish: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/).
+	- WildFish database: [Data](https://github.com/PeiqinZhuang/WildFish), [Paper](https://dl.acm.org/citation.cfm?id=3240616).
+	- Labeled fishes: [Data](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/), [Paper](https://ieeexplore.ieee.org/abstract/document/7046815).
+	- Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
+	- Fish database: [Data](http://www.fishdb.co.uk/).
+	- AQUALIFEIMAGES database: [Data](http://www.aqualifeimages.com/).
+	- Rockfish data: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/).
 
 
 #### E. Trash/debris
-- Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
+	- Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
 
 
