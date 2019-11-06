@@ -22,15 +22,24 @@
 
 ### Object detection and/or classification
 - MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
-- Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
-- Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
-- WildFish database: [Data](https://github.com/PeiqinZhuang/WildFish), [Paper](https://dl.acm.org/citation.cfm?id=3240616).
-- Labeled fishes: [Data](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/), [Paper](https://ieeexplore.ieee.org/abstract/document/7046815).
-- Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
 - MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
-- Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
-- Fish database: [Data](http://www.fishdb.co.uk/).
 - HabCam database: [Data](https://habcam.whoi.edu/).
 - OUC-Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
+
+
+#### Human divers, robots
+- Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
+- Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
+
+
+#### Fish
+- WildFish database: [Data](https://github.com/PeiqinZhuang/WildFish), [Paper](https://dl.acm.org/citation.cfm?id=3240616).
+- Labeled fishes: [Data](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/), [Paper](https://ieeexplore.ieee.org/abstract/document/7046815).
+- Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
+- Fish database: [Data](http://www.fishdb.co.uk/).
+
+
+#### Trash/debris
+- Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
 
 
