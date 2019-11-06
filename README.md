@@ -54,6 +54,7 @@
 - Fish4Knowledge data: [Data](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/).
 - Fish database: [Data](http://www.fishdb.co.uk/).
 - AQUALIFEIMAGES database: [Data](http://www.aqualifeimages.com/).
+- Rockfish: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/).
 
 
 #### Trash/debris
