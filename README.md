@@ -1,7 +1,7 @@
 ![det-1a](/ims/paired_euvp.jpg)
 
 ### Automatic Image Enhancement
-- [EUVP dataset](http://irvlab.cs.umn.edu/resources/euvp-dataset): ([Paper.](https://arxiv.org/abs/1903.09766) [Code.](https://github.com/xahidbuffon/funie-gan))
+- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code.](https://github.com/xahidbuffon/funie-gan). (Paired and unpaired data)
 
 
 | Dataset  | Resource   | Other Information |
