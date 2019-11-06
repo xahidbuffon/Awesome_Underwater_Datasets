@@ -18,6 +18,8 @@
 - Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 
 
+### Stereo data
+- Tasmania Coral Point, Scott Reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
 
 
 ### Object detection and/or classification
@@ -30,6 +32,10 @@
 #### Human divers, robots
 - Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
 - Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
+
+
+#### Coral-reef
+- Moorea Corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
 
 
 #### Fish
