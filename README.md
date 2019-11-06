@@ -11,12 +11,10 @@
 ### Image Super-Resolution
 | Dataset  | Resource   | Other Information |
 |:------------------------|:---------------------|:---------------------|
-| [USR-248](http://irvlab.cs.umn.edu/resources/usr-248-dataset) | [Paper.](https://arxiv.org/abs/1909.09437) [Code.](https://github.com/xahidbuffon/srdrm). | 2x, 4x, and 8x SISR models |
+- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (2x, 4x, and 8x SISR models)
 
 
 ### Image Segmentation
-| Dataset  | Resource   | Other Information |
-|:------------------------|:---------------------|:---------------------|
-| [USR-248](http://irvlab.cs.umn.edu/resources/usr-248-dataset) | [Paper.](https://arxiv.org/abs/1909.09437) [Code.](https://github.com/xahidbuffon/srdrm). | 2x, 4x, and 8x SISR models |
+- Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg).
 
 
