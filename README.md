@@ -1,7 +1,7 @@
 ![det-1a](/ims/paired_euvp.jpg)
 
 ### Automatic Image Enhancement
-- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). [Paired and unpaired data]
+- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). Paired and unpaired data)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320).
 - Jamaica Port Royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
@@ -13,5 +13,6 @@
 
 ### Image Segmentation
 - Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg).
+- Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 
 
