@@ -1,6 +1,6 @@
 ![det-1](/ims/paired_euvp.jpg)
 
-### Image enhancement and/or color correction
+### Image enhancement, color correction
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). Paired and unpaired data)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
@@ -37,7 +37,7 @@
 - MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
 
 
-#### Human divers, robots
+#### Divers, robots
 - Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
 - Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
 - CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
