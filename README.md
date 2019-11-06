@@ -9,3 +9,10 @@
 | [Jamaica Port Royal](https://github.com/kskin/WaterGAN/) | [Paper.](https://arxiv.org/abs/1702.07392) [Code.](https://github.com/kskin/WaterGAN/). |  |
 
 
+### Image Super-Resolution
+| Dataset  | Resource   | Other Information |
+|:------------------------|:---------------------|:---------------------|
+| [USR-248](http://irvlab.cs.umn.edu/resources/usr-248-dataset) | [Paper.](https://arxiv.org/abs/1909.09437) [Code.](https://github.com/xahidbuffon/srdrm). | 2x, 4x, and 8x SISR models |
+
+
+
