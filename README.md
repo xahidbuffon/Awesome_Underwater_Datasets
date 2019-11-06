@@ -1,6 +1,9 @@
 ![det-1a](/ims/paired_euvp.jpg)
 
 ### Automatic Image Enhancement
+- [EUVP dataset](http://irvlab.cs.umn.edu/resources/euvp-dataset): ([Paper.](https://arxiv.org/abs/1903.09766) [Code.](https://github.com/xahidbuffon/funie-gan))
+
+
 | Dataset  | Resource   | Other Information |
 |:------------------------|:---------------------|:---------------------|
 | [EUVP dataset](http://irvlab.cs.umn.edu/resources/euvp-dataset) | [Paper.](https://arxiv.org/abs/1903.09766) [Code.](https://github.com/xahidbuffon/funie-gan). | Paired and unpaired data |
@@ -14,5 +17,10 @@
 |:------------------------|:---------------------|:---------------------|
 | [USR-248](http://irvlab.cs.umn.edu/resources/usr-248-dataset) | [Paper.](https://arxiv.org/abs/1909.09437) [Code.](https://github.com/xahidbuffon/srdrm). | 2x, 4x, and 8x SISR models |
 
+
+### Image Segmentation
+| Dataset  | Resource   | Other Information |
+|:------------------------|:---------------------|:---------------------|
+| [USR-248](http://irvlab.cs.umn.edu/resources/usr-248-dataset) | [Paper.](https://arxiv.org/abs/1909.09437) [Code.](https://github.com/xahidbuffon/srdrm). | 2x, 4x, and 8x SISR models |
 
 
