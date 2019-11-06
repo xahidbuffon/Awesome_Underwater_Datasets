@@ -1,4 +1,4 @@
-### 1. Image enhancement, color correction
+### 1. Image enhancement, color correction, restoration
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). Paired and unpaired data)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
@@ -7,10 +7,11 @@
 - Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
 - Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
 - Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
+- Color restoration: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
 
 
 ### 2. Image super-resolution
-- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (2x, 4x, and 8x SISR models)
+- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for training 2x, 4x, and 8x SISR models)
 
 
 ### 3. Image segmentation
