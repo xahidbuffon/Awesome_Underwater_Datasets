@@ -5,9 +5,11 @@
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320).
-- Jamaica Port Royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
-- Virtual Periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
+- Jamaica port royal: [Data](https://github.com/kskin/WaterGAN/), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
+- Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
+- Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
 - UIEBD: [Data](https://li-chongyi.github.io/homepage.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495).
+
 
 
 ### Image super-resolution
@@ -27,10 +29,12 @@
 
 
 ### Object detection and/or classification
+#### General
 - MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
 - MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
 - HabCam database: [Data](https://habcam.whoi.edu/).
 - OUC-Vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
+- MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
 
 
 #### Human divers, robots
@@ -41,7 +45,8 @@
 
 #### Coral-reef
 - Moorea Corals (UCSD): [Data](http://vision.ucsd.edu/content/moorea-labeled-corals), [Paper](https://ieeexplore.ieee.org/abstract/document/6247798). 
-
+- Coral-reef Puerto Rico: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/coral-reef-puerto-rico/).
+- Coral-Net: [Data](https://coralnet.ucsd.edu/).
 
 #### Fish
 - WildFish database: [Data](https://github.com/PeiqinZhuang/WildFish), [Paper](https://dl.acm.org/citation.cfm?id=3240616).
