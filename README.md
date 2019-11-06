@@ -1,17 +1,17 @@
 ### 1. Image enhancement, color correction, restoration
-- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). Paired and unpaired data)
-- Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data)
+- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (Paired and unpaired data; FUnIE-GAN)
+- Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (Paired data; UGAN)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819).
-- RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320).
-- UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/DUIENet_Code).
-- Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/).
+- RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
+- UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/DUIENet_Code). (DUIE-Net)
+- Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
 - Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
 - Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
 - Color restoration: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
 
 
 ### 2. Image super-resolution
-- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for training 2x, 4x, and 8x SISR models)
+- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for training 2x, 4x, and 8x SISR models; SRDRM, SRDRM-GAN)
 
 
 ### 3. Image segmentation
@@ -23,7 +23,7 @@
 - Tasmania Coral Point, Scott Reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
 - Stereo from Flicker: [Data](http://webee.technion.ac.il/~yoav/research/flicker.html), [Paper](https://ieeexplore.ieee.org/abstract/document/6528294).
 - CADDY stereo data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it/), [Paper](https://www.mdpi.com/2077-1312/7/1/16).
-- HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272).
+- HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272). (UWStereoNet)
 
 
 ### 5. Object detection and/or classification
