@@ -36,7 +36,7 @@
 - NOAA data: [Data](https://data.world/datasets/underwater)
 
 
-#### B. Divers, robots
+#### B. Human-robot cooperation
 - Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
 - Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
 - CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
@@ -57,7 +57,7 @@
 - Rockfish: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/).
 
 
-#### E. Trash/debris
+#### E. Trash and marine debris
 - Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
 
 
