@@ -15,7 +15,7 @@
 
 
 ### 3. Image segmentation
-- Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg).
+- Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (CoralSeg)
 - Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 
 
