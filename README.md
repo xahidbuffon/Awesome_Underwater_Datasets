@@ -15,7 +15,7 @@
 
 
 ### 3. Image segmentation
-- Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (CoralSeg)
+- Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (Coral-Seg)
 - Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 
 
@@ -23,7 +23,7 @@
 - Tasmania coral point, Scott reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
 - Stereo from Flicker: [Data](http://webee.technion.ac.il/~yoav/research/flicker.html), [Paper](https://ieeexplore.ieee.org/abstract/document/6528294).
 - CADDY stereo data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it/), [Paper](https://www.mdpi.com/2077-1312/7/1/16).
-- HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272). (UWStereoNet)
+- HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272). (UW-StereoNet)
 
 
 ### 5. Object detection and/or classification
