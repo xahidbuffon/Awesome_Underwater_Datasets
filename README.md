@@ -36,6 +36,13 @@
 - OUC-vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
 - MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
 - NOAA data: [Data](https://data.world/datasets/underwater).
+- Aqualoc dataset: [Data](http://www.lirmm.fr/aqualoc/), [Paper](https://arxiv.org/abs/1910.14532).
+- Brackish dataset: [Data](https://www.kaggle.com/aalborguniversity/brackish-dataset/data), [Paper](https://www.researchgate.net/publication/333972548_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_Varying_Visibility).
+- SUN (scene/underwater) [Data](http://groups.csail.mit.edu/vision/SUN/).
+- Net tow data: [Data](http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/Drake_Bio_Gould/net_tow_data.html0%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/Drake_Bio_Gould/,info=dmoserv3.bco-dmo.org/jg/info/BCO-DMO/Drake_Bio_Gould/net_tow_data%7D).
+- UNDERWATER CAVES VISION DATA SET: [Data](https://cirs.udg.edu/caves-dataset/), [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838).
+- Underwater Videos of the Oscylator-4: [Data](https://mhkdr.openei.org/submissions/211).
+
 
 
 #### B. Human-robot cooperation
