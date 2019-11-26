@@ -7,12 +7,13 @@
 - Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
 - Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
 - Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
-- Color restoration: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
+- TURBID data: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
+- Color restoration: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl).
 
 
 ### 2. Image super-resolution
 - USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for training 2x, 4x, and 8x SISR models; SRDRM, SRDRM-GAN)
-
+- OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
 
 ### 3. Image segmentation
 - Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (Coral-Seg)
@@ -33,13 +34,13 @@
 - HabCam database: [Data](https://habcam.whoi.edu/).
 - OUC-vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
 - MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
-- NOAA data: [Data](https://data.world/datasets/underwater)
+- NOAA data: [Data](https://data.world/datasets/underwater).
 
 
 #### B. Human-robot cooperation
 - Diver detection: [Data](http://irvlab.cs.umn.edu/resources), [Paper](https://ieeexplore.ieee.org/document/8543168).
 - Robot tracking by detection: [Data](http://www.cim.mcgill.ca/~mrl/), [Paper](https://ieeexplore.ieee.org/document/8206280).
-- CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16)
+- CADDY diver pose data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset), [Paper](https://www.mdpi.com/2077-1312/7/1/16).
 
 
 #### C. Coral-reef
