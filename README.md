@@ -73,9 +73,8 @@
 
 ### 6. Acoustics dataset
 - Acoustic underwater dataset: [Data](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/), [Paper](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/ARLUT_01_doc_01.pdf).
-- DIDSON dataset: [Data1](https://osf.io/sxek6/), [Data2](https://osf.io/xy32d/), [Data3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202), [Paper](researchgate.net/publication/328177766_An_underwater_observation_dataset_for_fish_classification_and_fishery_assessment).
-- UNDERWATER CAVES SONAR DATA SET: [Data](https://cirs.udg.edu/caves-dataset/), [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838).
-- Spectrogram Analysis: [Data](https://sites.google.com/site/tomalampert/data-sets?authuser=0), [Paper](https://hal.archives-ouvertes.fr/file/index/docid/644937/filename/LampertXX.pdf).
+- DIDSON dataset: [Data1](https://osf.io/sxek6/), [Data2](https://osf.io/xy32d/), [Data3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202), [Paper](https://www.nature.com/articles/sdata2018190).
+- Spectrogram Analysis: [Data](https://sites.google.com/site/tomalampert/data-sets?authuser=0), [Paper](https://www.sciencedirect.com/science/article/pii/S0031320312004712).
 - Caves sonar and vision data: [Data](https://cirs.udg.edu/caves-dataset/), [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838).
 
 ### 7. Docking dataset
