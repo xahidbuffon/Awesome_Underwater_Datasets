@@ -12,7 +12,7 @@
 
 
 ### 2. Image super-resolution
-- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for training 2x, 4x, and 8x SISR models; SRDRM, SRDRM-GAN)
+- USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN)
 - OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
 
 ### 3. Image segmentation
