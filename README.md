@@ -9,11 +9,11 @@
 - Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
 - Color restoration: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl).
 - TURBID data: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
-
+- OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
 
 ### 2. Image super-resolution
 - USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN)
-- OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
+
 
 ### 3. Image segmentation
 - Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (Coral-Seg)
