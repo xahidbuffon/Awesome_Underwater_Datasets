@@ -35,12 +35,12 @@
 
 ### 5. Object detection and/or classification
 #### A. General
-- MOUSS data: [Data](https://www.aamvem.com/data-challenge). (CVPR AAMVEM data challenge)
+- MOUSS data: [Data](https://www.viametoolkit.org/cvpr-2018-workshop-data-challenge/challenge-data-description/). (CVPR 2018 workshop challenge)
 - MBARI databse: [Data](https://www.mbari.org/products/data-repository/).
 - HabCam database: [Data](https://habcam.whoi.edu/).
 - OUC-vision: [Paper](https://ieeexplore.ieee.org/abstract/document/8019324).
 - MARIS project: [Data](http://rimlab.ce.unipr.it/Maris.html).
-- NOAA data: [Data](https://data.world/datasets/underwater).
+- NOAA data: [Data](https://marineresearchpartners.com/nmfs_aiasi/DataSets.html).
 - Aqualoc dataset: [Data](http://www.lirmm.fr/aqualoc/), [Paper](https://arxiv.org/abs/1910.14532). (visual-inertial-pressure localization)
 - Brackish dataset: [Data](https://www.kaggle.com/aalborguniversity/brackish-dataset/data), [Paper](https://www.researchgate.net/publication/333972548_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_Varying_Visibility).
 - SUN database (underwater scenes): [Data](http://groups.csail.mit.edu/vision/SUN/).
