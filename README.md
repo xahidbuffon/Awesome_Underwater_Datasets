@@ -1,9 +1,9 @@
 ### 1. Image enhancement, color correction, restoration
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
+- UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
-- UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/DUIENet_Code). (DUIE-Net)
 - Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
 - Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
 - Color correction: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/color-correction/).
@@ -15,7 +15,7 @@
 - USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN)
 
 
-#### 1+2. SESR: Simultaneous Enhancement and Super-Resolution
+### 1+2. SESR: Simultaneous Enhancement and Super-Resolution
 - UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR). (for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR)
 
 
@@ -24,7 +24,9 @@
 - Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (Coral-Seg)
 - Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 - Change detection: [Data](http://underwaterchangedetection.eu/index.html), [Paper](https://ieeexplore.ieee.org/document/7761129).
-
+#### * Salient Object Detection
+- UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR)
+- MUED database: [Data-1](https://zenodo.org/record/2542305#.X0YMt3UzY5k), [Data-2](https://zenodo.org/record/2542307#.X0YM53UzY5k), [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494619302169)
 
 ### 4. Stereo data
 - Tasmania coral point, Scott reef-25, O'Hara-7: [Data](http://marine.acfr.usyd.edu.au/datasets/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/5652480).
