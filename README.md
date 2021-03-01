@@ -88,6 +88,7 @@
 - Stereo from Flicker: [Data](http://webee.technion.ac.il/~yoav/research/flicker.html), [Paper](https://ieeexplore.ieee.org/abstract/document/6528294).
 - CADDY stereo data: [Data](http://caddy-underwater-datasets.ge.issia.cnr.it/), [Paper](https://www.mdpi.com/2077-1312/7/1/16).
 - HIMB data for UWStereoNet: [Data](https://github.com/kskin/data), [Paper](https://ieeexplore.ieee.org/abstract/document/8794272). (UW-StereoNet)
+- SQUID dataset: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343)
 
 
 ## Docking Data
