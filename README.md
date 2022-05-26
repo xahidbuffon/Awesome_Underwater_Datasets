@@ -8,6 +8,7 @@
     
   [![🗄]][Data EUVP dataset]
     
+  <br>
 
 - **Underwater imagenet**
 
@@ -17,6 +18,7 @@
     
   [![🗄]][Data Underwater imagenet]
     
+  <br>
 
 - **UIEBD dataset**
 
@@ -26,6 +28,7 @@
     
   [![🗄]][Data UIEBD dataset]
     
+  <br>
 
 - **SQUID dataset**
 
@@ -35,6 +38,7 @@
     
   [![🗄]][Data SQUID dataset]
     
+  <br>
 
 - **U-45**
 
@@ -42,6 +46,7 @@
     
   [![🗄]][Data U-45]
     
+  <br>
 
 - **RUIE benchmark**
 
@@ -49,6 +54,7 @@
     
   [![🗄]][Data RUIE benchmark]
     
+  <br>
 
 - **Jamaica port royal**
 
@@ -58,6 +64,7 @@
     
   [![🗄]][Data Jamaica port royal]
     
+  <br>
 
 - **Virtual periscope**
 
@@ -65,11 +72,13 @@
     
   [![🗄]][Data Virtual periscope]
     
+  <br>
 
 - **Color correction**
 
   [![🗄]][Data Color correction]
     
+  <br>
 
 - **Color restoration**
 
@@ -79,6 +88,7 @@
     
   [![🗄]][Data Color restoration]
     
+  <br>
 
 - **TURBID data**
 
@@ -86,6 +96,7 @@
     
   [![🗄]][Data TURBID data]
     
+  <br>
 
 - **OceanDark dataset**
 
@@ -93,7 +104,12 @@
     
   [![🗄]][Data OceanDark dataset]
     
+  <br>
 
+
+<br>
+
+---
 
 <br>
 
@@ -107,7 +123,12 @@
     
   [![🗄]][Data USR-248]
     
+  <br>
 
+
+<br>
+
+---
 
 <br>
 
@@ -121,7 +142,12 @@
     
   [![🗄]][Data UFO-120]
     
+  <br>
 
+
+<br>
+
+---
 
 <br>
 
@@ -135,6 +161,7 @@
     
   [![🗄]][Data SUIM]
     
+  <br>
 
 - **Coral-Net**
 
@@ -144,6 +171,7 @@
     
   [![🗄]][Data Coral-Net]
     
+  <br>
 
 - **Eilat dataset**
 
@@ -151,6 +179,7 @@
     
   [![🗄]][Data Eilat dataset]
     
+  <br>
 
 - **Change detection**
 
@@ -158,7 +187,12 @@
     
   [![🗄]][Data Change detection]
     
+  <br>
 
+
+<br>
+
+---
 
 <br>
 
@@ -172,6 +206,7 @@
     
   [![🗄]][Data UFO-120]
     
+  <br>
 
 - **MUED database**
 
@@ -181,7 +216,12 @@
     
   [![🗄]][Data MUED database 1]
     
+  <br>
 
+
+<br>
+
+---
 
 <br>
 
@@ -193,31 +233,37 @@
 
   [![🗄]][Data MOUSS data]
     
+  <br>
 
 - **MBARI databse**
 
   [![🗄]][Data MBARI databse]
     
+  <br>
 
 - **HabCam database**
 
   [![🗄]][Data HabCam database]
     
+  <br>
 
 - **OUC-vision**
 
   [![📄]][Paper OUC-vision]
     
+  <br>
 
 - **MARIS project**
 
   [![🗄]][Data MARIS project]
     
+  <br>
 
 - **NOAA data**
 
   [![🗄]][Data NOAA data]
     
+  <br>
 
 - **Aqualoc dataset**
 
@@ -225,6 +271,7 @@
     
   [![🗄]][Data Aqualoc dataset]
     
+  <br>
 
 - **Brackish dataset**
 
@@ -232,18 +279,22 @@
     
   [![🗄]][Data Brackish dataset]
     
+  <br>
 
 - **SUN database**
 
   [![🗄]][Data SUN database]
     
+  <br>
 
 - **FathomNet**
 
   [![🗄]][Data FathomNet]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Human-robot cooperation
@@ -254,6 +305,7 @@
     
   [![🗄]][Data Diver detection]
     
+  <br>
 
 - **Robot tracking by detection**
 
@@ -261,6 +313,7 @@
     
   [![🗄]][Data Robot tracking by detection]
     
+  <br>
 
 - **CADDY diver pose data**
 
@@ -268,8 +321,10 @@
     
   [![🗄]][Data CADDY diver pose data]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Coral-reef
@@ -280,18 +335,22 @@
     
   [![🗄]][Data Moorea corals]
     
+  <br>
 
 - **Coral-reef Puerto Rico**
 
   [![🗄]][Data Coral-reef Puerto Rico]
     
+  <br>
 
 - **Coral-Net**
 
   [![🗄]][Data Coral-Net]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Fish
@@ -302,6 +361,7 @@
     
   [![🗄]][Data WildFish database]
     
+  <br>
 
 - **Labeled fishes**
 
@@ -309,26 +369,31 @@
     
   [![🗄]][Data Labeled fishes]
     
+  <br>
 
 - **Fish4Knowledge data**
 
   [![🗄]][Data Fish4Knowledge data]
     
+  <br>
 
 - **Fish database**
 
   [![🗄]][Data Fish database]
     
+  <br>
 
 - **AQUALIFEIMAGES database**
 
   [![🗄]][Data AQUALIFEIMAGES database]
     
+  <br>
 
 - **Rockfish**
 
   [![🗄]][Data Rockfish]
     
+  <br>
 
 - **Fish recognition data**
 
@@ -336,11 +401,13 @@
     
   [![🗄]][Data Fish recognition data]
     
+  <br>
 
 - **Oceanwide images**
 
   [![🗄]][Data Oceanwide images]
     
+  <br>
 
 - **Fish detection and tracking**
 
@@ -348,6 +415,7 @@
     
   [![🗄]][Data Fish detection and tracking]
     
+  <br>
 
 - **Fish trajectory detection**
 
@@ -355,8 +423,10 @@
     
   [![🗄]][Data Fish trajectory detection]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Trash and marine debris
@@ -367,6 +437,7 @@
     
   [![🗄]][Data TrashCan]
     
+  <br>
 
 - **Trash-ICRA19**
 
@@ -374,6 +445,7 @@
     
   [![🗄]][Data Trash-ICRA19]
     
+  <br>
 
 - **Deep-sea debris database**
 
@@ -381,6 +453,7 @@
     
   [![🗄]][Data Deep-sea debris database]
     
+  <br>
 
 - **Tiny plastics posing threat to turtles**
 
@@ -388,8 +461,10 @@
     
   [![🗄]][Data Tiny plastics posing threat to turtles]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Acoustic Data
@@ -400,6 +475,7 @@
     
   [![🗄]][Data Five-element acoustic dataset]
     
+  <br>
 
 - **DIDSON dataset**
 
@@ -411,6 +487,7 @@
     
   [![🗄]][Data DIDSON dataset 2]
     
+  <br>
 
 - **Spectrogram Analysis**
 
@@ -418,6 +495,7 @@
     
   [![🗄]][Data Spectrogram Analysis]
     
+  <br>
 
 - **Caves sonar and vision data**
 
@@ -425,8 +503,10 @@
     
   [![🗄]][Data Caves sonar and vision data]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Stereo Data
@@ -437,6 +517,7 @@
     
   [![🗄]][Data Tasmania coral point]
     
+  <br>
 
 - **Stereo from Flicker**
 
@@ -444,6 +525,7 @@
     
   [![🗄]][Data Stereo from Flicker]
     
+  <br>
 
 - **CADDY stereo data**
 
@@ -451,6 +533,7 @@
     
   [![🗄]][Data CADDY stereo data]
     
+  <br>
 
 - **HIMB data for UWStereoNet**
 
@@ -458,6 +541,7 @@
     
   [![🗄]][Data HIMB data for UWStereoNet]
     
+  <br>
 
 - **SQUID dataset**
 
@@ -465,8 +549,10 @@
     
   [![🗄]][Data SQUID dataset]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Docking Data
@@ -477,8 +563,10 @@
     
   [![🗄]][Data Underwater Docking Images Dataset]
     
+  <br>
 
 
+<br>
 <br>
 
 ### Temperature Data
@@ -487,8 +575,10 @@
 
   [![🗄]][Data Underwater temperature dataset]
     
+  <br>
 
 
+<br>
 <br>
 
 

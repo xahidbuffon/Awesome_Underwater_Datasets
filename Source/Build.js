@@ -68,7 +68,10 @@ function makeCategory(data,isSubcategory = false){
         for(const item of items)
             makeItem(item);
     
-        content.push('','<br>','');
+        if(isSubcategory)
+            content.push('','<br>','<br>','');
+        else
+            content.push('','<br>','','---','','<br>','');
     }
 }
 
@@ -100,7 +103,7 @@ function makeItem(data){
     
     
     links.push('');
-    content.push(line.map((item) => '  ' + item).join('\n'),'');
+    content.push(line.map((item) => '  ' + item).join('\n'),'  <br>','')
 }
 
 
