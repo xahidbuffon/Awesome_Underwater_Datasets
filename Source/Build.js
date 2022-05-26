@@ -53,6 +53,7 @@ await Deno.writeTextFile(readme,combined);
 function makeCategory(data,isSubcategory = false){
     
     content.push(...headline(data.name,isSubcategory ? 3 : 2));
+    content.push('<br>','');
     
     
     const { categories } = data;
@@ -71,7 +72,7 @@ function makeCategory(data,isSubcategory = false){
         if(isSubcategory)
             content.push('','<br>','<br>','');
         else
-            content.push('','<br>','','---','','<br>','');
+            content.push('','<br>','<br>','','---','','<br>','<br>','');
     }
 }
 

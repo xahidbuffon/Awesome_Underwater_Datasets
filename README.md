@@ -1,5 +1,7 @@
 ## Image Enhancement, Color Correction/Restoration
 
+<br>
+
 - **EUVP dataset**   *paired and unpaired data; FUnIE-GAN*
 
   [![📄]][Paper EUVP dataset]
@@ -120,12 +122,16 @@
 
 
 <br>
+<br>
 
 ---
 
 <br>
+<br>
 
 ## SISR : Single Image Super-Resolution
+
+<br>
 
 - **USR-248**   *for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN*
 
@@ -140,12 +146,16 @@
 
 
 <br>
+<br>
 
 ---
 
 <br>
+<br>
 
 ## SESR : Simultaneous Enhancement and Super-Resolution
+
+<br>
 
 - **UFO-120**   *for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR*
 
@@ -160,12 +170,16 @@
 
 
 <br>
+<br>
 
 ---
 
 <br>
+<br>
 
 ## Image Segmentation
+
+<br>
 
 - **SUIM**   *SUIM-Net*
 
@@ -209,12 +223,16 @@
 
 
 <br>
+<br>
 
 ---
 
 <br>
+<br>
 
 ## SOD : Salient Object Detection
+
+<br>
 
 - **UFO-120**   
 
@@ -240,14 +258,20 @@
 
 
 <br>
+<br>
 
 ---
 
 <br>
+<br>
 
 ## Object Detection/Classification
 
+<br>
+
 ### General
+
+<br>
 
 - **MOUSS data**   *CVPR 2018 workshop challenge*
 
@@ -329,6 +353,8 @@
 
 ### Human-robot cooperation
 
+<br>
+
 - **Diver detection**   
 
   [![📄]][Paper Diver detection]
@@ -362,6 +388,8 @@
 
 ### Coral-reef
 
+<br>
+
 - **Moorea corals**   *UCSD*
 
   [![📄]][Paper Moorea corals]
@@ -390,6 +418,8 @@
 <br>
 
 ### Fish
+
+<br>
 
 - **WildFish database**   
 
@@ -477,6 +507,8 @@
 
 ### Trash and marine debris
 
+<br>
+
 - **TrashCan**   
 
   [![📄]][Paper TrashCan]
@@ -518,6 +550,8 @@
 <br>
 
 ### Acoustic Data
+
+<br>
 
 - **Five-element acoustic dataset**   
 
@@ -564,6 +598,8 @@
 <br>
 
 ### Stereo Data
+
+<br>
 
 - **Tasmania coral point**   *Scott reef-25, O'Hara-7*
 
@@ -616,6 +652,8 @@
 
 ### Docking Data
 
+<br>
+
 - **Underwater Docking Images Dataset**   *UDID*
 
   [![📄]][Paper Underwater Docking Images Dataset]
@@ -630,6 +668,8 @@
 <br>
 
 ### Temperature Data
+
+<br>
 
 - **Underwater temperature dataset**   
 
