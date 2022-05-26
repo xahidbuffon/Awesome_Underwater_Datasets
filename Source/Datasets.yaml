@@ -157,7 +157,7 @@
                     description : image database
                     data : http://fathomnet.org/fathomnet/#/
 
-        -   name : B. Human-robot cooperation
+        -   name : Human-robot cooperation
             items:
                 -   name : Diver detection
                     data : http://irvlab.cs.umn.edu/resources
@@ -171,7 +171,7 @@
                     data : http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset
                     paper : https://www.mdpi.com/2077-1312/7/1/16
 
-        -   name : C. Coral-reef
+        -   name : Coral-reef
             items:
                 -   name : Moorea corals
                     description : UCSD
@@ -184,7 +184,7 @@
                 -   name : Coral-Net
                     data : https://coralnet.ucsd.edu/
 
-        -   name : D. Fish
+        -   name : Fish
             items:
                 -   name : WildFish database
                     data : https://github.com/PeiqinZhuang/WildFish
@@ -221,7 +221,7 @@
                     data : http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/BEHAVIOR/
                     paper : http://www.bmva.org/bmvc/2013/Papers/paper0021/paper0021.pdf
 
-        -   name : E. Trash and marine debris
+        -   name : Trash and marine debris
             items:
                 -   name : TrashCan
                     data : https://conservancy.umn.edu/handle/11299/214865
@@ -239,7 +239,7 @@
                     data : https://www.dropbox.com/sh/53jzl8w8smydrdb/AAC_oST5MGxJ2VL-rcoTpxhXa
                     paper : http://europepmc.org/abstract/med/29475719
 
-        -   name : 6. Acoustic Data
+        -   name : Acoustic Data
             items:
                 -   name : Five-element acoustic dataset
                     data : http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/
