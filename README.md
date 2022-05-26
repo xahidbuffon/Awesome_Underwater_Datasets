@@ -2,96 +2,96 @@
 
 - **EUVP dataset**
 
-  [📄][Paper EUVP dataset]
+  [![📄]][Paper EUVP dataset]
     
-  [💾][Code EUVP dataset]
+  [![💾]][Code EUVP dataset]
     
-  [🗄][Data EUVP dataset]
+  [![🗄]][Data EUVP dataset]
     
 
 - **Underwater imagenet**
 
-  [📄][Paper Underwater imagenet]
+  [![📄]][Paper Underwater imagenet]
     
-  [💾][Code Underwater imagenet]
+  [![💾]][Code Underwater imagenet]
     
-  [🗄][Data Underwater imagenet]
+  [![🗄]][Data Underwater imagenet]
     
 
 - **UIEBD dataset**
 
-  [📄][Paper UIEBD dataset]
+  [![📄]][Paper UIEBD dataset]
     
-  [💾][Code UIEBD dataset]
+  [![💾]][Code UIEBD dataset]
     
-  [🗄][Data UIEBD dataset]
+  [![🗄]][Data UIEBD dataset]
     
 
 - **SQUID dataset**
 
-  [📄][Paper SQUID dataset]
+  [![📄]][Paper SQUID dataset]
     
-  [💾][Code SQUID dataset]
+  [![💾]][Code SQUID dataset]
     
-  [🗄][Data SQUID dataset]
+  [![🗄]][Data SQUID dataset]
     
 
 - **U-45**
 
-  [📄][Paper U-45]
+  [![📄]][Paper U-45]
     
-  [🗄][Data U-45]
+  [![🗄]][Data U-45]
     
 
 - **RUIE benchmark**
 
-  [📄][Paper RUIE benchmark]
+  [![📄]][Paper RUIE benchmark]
     
-  [🗄][Data RUIE benchmark]
+  [![🗄]][Data RUIE benchmark]
     
 
 - **Jamaica port royal**
 
-  [📄][Paper Jamaica port royal]
+  [![📄]][Paper Jamaica port royal]
     
-  [💾][Code Jamaica port royal]
+  [![💾]][Code Jamaica port royal]
     
-  [🗄][Data Jamaica port royal]
+  [![🗄]][Data Jamaica port royal]
     
 
 - **Virtual periscope**
 
-  [📄][Paper Virtual periscope]
+  [![📄]][Paper Virtual periscope]
     
-  [🗄][Data Virtual periscope]
+  [![🗄]][Data Virtual periscope]
     
 
 - **Color correction**
 
-  [🗄][Data Color correction]
+  [![🗄]][Data Color correction]
     
 
 - **Color restoration**
 
-  [📄][Paper Color restoration]
+  [![📄]][Paper Color restoration]
     
-  [💾][Code Color restoration]
+  [![💾]][Code Color restoration]
     
-  [🗄][Data Color restoration]
+  [![🗄]][Data Color restoration]
     
 
 - **TURBID data**
 
-  [📄][Paper TURBID data]
+  [![📄]][Paper TURBID data]
     
-  [🗄][Data TURBID data]
+  [![🗄]][Data TURBID data]
     
 
 - **OceanDark dataset**
 
-  [📄][Paper OceanDark dataset]
+  [![📄]][Paper OceanDark dataset]
     
-  [🗄][Data OceanDark dataset]
+  [![🗄]][Data OceanDark dataset]
     
 
 
@@ -101,11 +101,11 @@
 
 - **USR-248**
 
-  [📄][Paper USR-248]
+  [![📄]][Paper USR-248]
     
-  [💾][Code USR-248]
+  [![💾]][Code USR-248]
     
-  [🗄][Data USR-248]
+  [![🗄]][Data USR-248]
     
 
 
@@ -115,11 +115,11 @@
 
 - **UFO-120**
 
-  [📄][Paper UFO-120]
+  [![📄]][Paper UFO-120]
     
-  [💾][Code UFO-120]
+  [![💾]][Code UFO-120]
     
-  [🗄][Data UFO-120]
+  [![🗄]][Data UFO-120]
     
 
 
@@ -129,34 +129,34 @@
 
 - **SUIM**
 
-  [📄][Paper SUIM]
+  [![📄]][Paper SUIM]
     
-  [💾][Code SUIM]
+  [![💾]][Code SUIM]
     
-  [🗄][Data SUIM]
+  [![🗄]][Data SUIM]
     
 
 - **Coral-Net**
 
-  [📄][Paper Coral-Net]
+  [![📄]][Paper Coral-Net]
     
-  [💾][Code Coral-Net]
+  [![💾]][Code Coral-Net]
     
-  [🗄][Data Coral-Net]
+  [![🗄]][Data Coral-Net]
     
 
 - **Eilat dataset**
 
-  [📄][Paper Eilat dataset]
+  [![📄]][Paper Eilat dataset]
     
-  [🗄][Data Eilat dataset]
+  [![🗄]][Data Eilat dataset]
     
 
 - **Change detection**
 
-  [📄][Paper Change detection]
+  [![📄]][Paper Change detection]
     
-  [🗄][Data Change detection]
+  [![🗄]][Data Change detection]
     
 
 
@@ -166,20 +166,20 @@
 
 - **UFO-120**
 
-  [📄][Paper UFO-120]
+  [![📄]][Paper UFO-120]
     
-  [💾][Code UFO-120]
+  [![💾]][Code UFO-120]
     
-  [🗄][Data UFO-120]
+  [![🗄]][Data UFO-120]
     
 
 - **MUED database**
 
-  [📄][Paper MUED database]
+  [![📄]][Paper MUED database]
     
-  [🗄][Data MUED database 0]
+  [![🗄]][Data MUED database 0]
     
-  [🗄][Data MUED database 1]
+  [![🗄]][Data MUED database 1]
     
 
 
@@ -191,56 +191,56 @@
 
 - **MOUSS data**
 
-  [🗄][Data MOUSS data]
+  [![🗄]][Data MOUSS data]
     
 
 - **MBARI databse**
 
-  [🗄][Data MBARI databse]
+  [![🗄]][Data MBARI databse]
     
 
 - **HabCam database**
 
-  [🗄][Data HabCam database]
+  [![🗄]][Data HabCam database]
     
 
 - **OUC-vision**
 
-  [📄][Paper OUC-vision]
+  [![📄]][Paper OUC-vision]
     
 
 - **MARIS project**
 
-  [🗄][Data MARIS project]
+  [![🗄]][Data MARIS project]
     
 
 - **NOAA data**
 
-  [🗄][Data NOAA data]
+  [![🗄]][Data NOAA data]
     
 
 - **Aqualoc dataset**
 
-  [📄][Paper Aqualoc dataset]
+  [![📄]][Paper Aqualoc dataset]
     
-  [🗄][Data Aqualoc dataset]
+  [![🗄]][Data Aqualoc dataset]
     
 
 - **Brackish dataset**
 
-  [📄][Paper Brackish dataset]
+  [![📄]][Paper Brackish dataset]
     
-  [🗄][Data Brackish dataset]
+  [![🗄]][Data Brackish dataset]
     
 
 - **SUN database**
 
-  [🗄][Data SUN database]
+  [![🗄]][Data SUN database]
     
 
 - **FathomNet**
 
-  [🗄][Data FathomNet]
+  [![🗄]][Data FathomNet]
     
 
 
@@ -250,23 +250,23 @@
 
 - **Diver detection**
 
-  [📄][Paper Diver detection]
+  [![📄]][Paper Diver detection]
     
-  [🗄][Data Diver detection]
+  [![🗄]][Data Diver detection]
     
 
 - **Robot tracking by detection**
 
-  [📄][Paper Robot tracking by detection]
+  [![📄]][Paper Robot tracking by detection]
     
-  [🗄][Data Robot tracking by detection]
+  [![🗄]][Data Robot tracking by detection]
     
 
 - **CADDY diver pose data**
 
-  [📄][Paper CADDY diver pose data]
+  [![📄]][Paper CADDY diver pose data]
     
-  [🗄][Data CADDY diver pose data]
+  [![🗄]][Data CADDY diver pose data]
     
 
 
@@ -276,19 +276,19 @@
 
 - **Moorea corals**
 
-  [📄][Paper Moorea corals]
+  [![📄]][Paper Moorea corals]
     
-  [🗄][Data Moorea corals]
+  [![🗄]][Data Moorea corals]
     
 
 - **Coral-reef Puerto Rico**
 
-  [🗄][Data Coral-reef Puerto Rico]
+  [![🗄]][Data Coral-reef Puerto Rico]
     
 
 - **Coral-Net**
 
-  [🗄][Data Coral-Net]
+  [![🗄]][Data Coral-Net]
     
 
 
@@ -298,62 +298,62 @@
 
 - **WildFish database**
 
-  [📄][Paper WildFish database]
+  [![📄]][Paper WildFish database]
     
-  [🗄][Data WildFish database]
+  [![🗄]][Data WildFish database]
     
 
 - **Labeled fishes**
 
-  [📄][Paper Labeled fishes]
+  [![📄]][Paper Labeled fishes]
     
-  [🗄][Data Labeled fishes]
+  [![🗄]][Data Labeled fishes]
     
 
 - **Fish4Knowledge data**
 
-  [🗄][Data Fish4Knowledge data]
+  [![🗄]][Data Fish4Knowledge data]
     
 
 - **Fish database**
 
-  [🗄][Data Fish database]
+  [![🗄]][Data Fish database]
     
 
 - **AQUALIFEIMAGES database**
 
-  [🗄][Data AQUALIFEIMAGES database]
+  [![🗄]][Data AQUALIFEIMAGES database]
     
 
 - **Rockfish**
 
-  [🗄][Data Rockfish]
+  [![🗄]][Data Rockfish]
     
 
 - **Fish recognition data**
 
-  [📄][Paper Fish recognition data]
+  [![📄]][Paper Fish recognition data]
     
-  [🗄][Data Fish recognition data]
+  [![🗄]][Data Fish recognition data]
     
 
 - **Oceanwide images**
 
-  [🗄][Data Oceanwide images]
+  [![🗄]][Data Oceanwide images]
     
 
 - **Fish detection and tracking**
 
-  [📄][Paper Fish detection and tracking]
+  [![📄]][Paper Fish detection and tracking]
     
-  [🗄][Data Fish detection and tracking]
+  [![🗄]][Data Fish detection and tracking]
     
 
 - **Fish trajectory detection**
 
-  [📄][Paper Fish trajectory detection]
+  [![📄]][Paper Fish trajectory detection]
     
-  [🗄][Data Fish trajectory detection]
+  [![🗄]][Data Fish trajectory detection]
     
 
 
@@ -363,30 +363,30 @@
 
 - **TrashCan**
 
-  [📄][Paper TrashCan]
+  [![📄]][Paper TrashCan]
     
-  [🗄][Data TrashCan]
+  [![🗄]][Data TrashCan]
     
 
 - **Trash-ICRA19**
 
-  [📄][Paper Trash-ICRA19]
+  [![📄]][Paper Trash-ICRA19]
     
-  [🗄][Data Trash-ICRA19]
+  [![🗄]][Data Trash-ICRA19]
     
 
 - **Deep-sea debris database**
 
-  [📄][Paper Deep-sea debris database]
+  [![📄]][Paper Deep-sea debris database]
     
-  [🗄][Data Deep-sea debris database]
+  [![🗄]][Data Deep-sea debris database]
     
 
 - **Tiny plastics posing threat to turtles**
 
-  [📄][Paper Tiny plastics posing threat to turtles]
+  [![📄]][Paper Tiny plastics posing threat to turtles]
     
-  [🗄][Data Tiny plastics posing threat to turtles]
+  [![🗄]][Data Tiny plastics posing threat to turtles]
     
 
 
@@ -396,34 +396,34 @@
 
 - **Five-element acoustic dataset**
 
-  [📄][Paper Five-element acoustic dataset]
+  [![📄]][Paper Five-element acoustic dataset]
     
-  [🗄][Data Five-element acoustic dataset]
+  [![🗄]][Data Five-element acoustic dataset]
     
 
 - **DIDSON dataset**
 
-  [📄][Paper DIDSON dataset]
+  [![📄]][Paper DIDSON dataset]
     
-  [🗄][Data DIDSON dataset 0]
+  [![🗄]][Data DIDSON dataset 0]
     
-  [🗄][Data DIDSON dataset 1]
+  [![🗄]][Data DIDSON dataset 1]
     
-  [🗄][Data DIDSON dataset 2]
+  [![🗄]][Data DIDSON dataset 2]
     
 
 - **Spectrogram Analysis**
 
-  [📄][Paper Spectrogram Analysis]
+  [![📄]][Paper Spectrogram Analysis]
     
-  [🗄][Data Spectrogram Analysis]
+  [![🗄]][Data Spectrogram Analysis]
     
 
 - **Caves sonar and vision data**
 
-  [📄][Paper Caves sonar and vision data]
+  [![📄]][Paper Caves sonar and vision data]
     
-  [🗄][Data Caves sonar and vision data]
+  [![🗄]][Data Caves sonar and vision data]
     
 
 
@@ -433,37 +433,37 @@
 
 - **Tasmania coral point**
 
-  [📄][Paper Tasmania coral point]
+  [![📄]][Paper Tasmania coral point]
     
-  [🗄][Data Tasmania coral point]
+  [![🗄]][Data Tasmania coral point]
     
 
 - **Stereo from Flicker**
 
-  [📄][Paper Stereo from Flicker]
+  [![📄]][Paper Stereo from Flicker]
     
-  [🗄][Data Stereo from Flicker]
+  [![🗄]][Data Stereo from Flicker]
     
 
 - **CADDY stereo data**
 
-  [📄][Paper CADDY stereo data]
+  [![📄]][Paper CADDY stereo data]
     
-  [🗄][Data CADDY stereo data]
+  [![🗄]][Data CADDY stereo data]
     
 
 - **HIMB data for UWStereoNet**
 
-  [📄][Paper HIMB data for UWStereoNet]
+  [![📄]][Paper HIMB data for UWStereoNet]
     
-  [🗄][Data HIMB data for UWStereoNet]
+  [![🗄]][Data HIMB data for UWStereoNet]
     
 
 - **SQUID dataset**
 
-  [📄][Paper SQUID dataset]
+  [![📄]][Paper SQUID dataset]
     
-  [🗄][Data SQUID dataset]
+  [![🗄]][Data SQUID dataset]
     
 
 
@@ -473,9 +473,9 @@
 
 - **Underwater Docking Images Dataset**
 
-  [📄][Paper Underwater Docking Images Dataset]
+  [![📄]][Paper Underwater Docking Images Dataset]
     
-  [🗄][Data Underwater Docking Images Dataset]
+  [![🗄]][Data Underwater Docking Images Dataset]
     
 
 
@@ -485,7 +485,7 @@
 
 - **Underwater temperature dataset**
 
-  [🗄][Data Underwater temperature dataset]
+  [![🗄]][Data Underwater temperature dataset]
     
 
 
@@ -493,6 +493,10 @@
 
 
 <!----------------------------------------------------------------------------->
+
+[📄]: https://img.shields.io/badge/Paper-51A2DA?style=for-the-badge&logoColor=white&logo=GitBook
+[💾]: https://img.shields.io/badge/Code-1F4056?style=for-the-badge&logoColor=white&logo=CodeFactor
+[🗄]: https://img.shields.io/badge/Data-A5915F?style=for-the-badge&logoColor=white&logo=AzureArtifacts
 
 [Paper EUVP dataset]: https://arxiv.org/abs/1903.09766 'Paper'
 [Code EUVP dataset]: https://github.com/xahidbuffon/funie-gan 'Code'

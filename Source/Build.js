@@ -27,7 +27,13 @@ const separator = `<!${ '-'.repeat(77) }>`;
 
 
 let content = [];
-let links = [];
+
+let links = [
+    '[📄]: https://img.shields.io/badge/Paper-51A2DA?style=for-the-badge&logoColor=white&logo=GitBook',
+    '[💾]: https://img.shields.io/badge/Code-1F4056?style=for-the-badge&logoColor=white&logo=CodeFactor',
+    '[🗄]: https://img.shields.io/badge/Data-A5915F?style=for-the-badge&logoColor=white&logo=AzureArtifacts',
+    ''
+];
 
 for(const category of data)
     makeCategory(category);
@@ -124,7 +130,7 @@ function linked(icon,type, link , project , index ){
         title += ` ${ index }`;
     }
     
-    const reference = `[${ icon }][${ name }]`;
+    const reference = `[![${ icon }]][${ name }]`;
     
     if(data.note)
         title += ` ${ data.note }`;
