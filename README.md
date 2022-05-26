@@ -1,6 +1,6 @@
 ## Image Enhancement, Color Correction/Restoration
 
-- **EUVP dataset**
+- **EUVP dataset**   *paired and unpaired data; FUnIE-GAN*
 
   [![📄]][Paper EUVP dataset]
     
@@ -10,7 +10,7 @@
     
   <br>
 
-- **Underwater imagenet**
+- **Underwater imagenet**   *paired data; UGAN*
 
   [![📄]][Paper Underwater imagenet]
     
@@ -20,7 +20,7 @@
     
   <br>
 
-- **UIEBD dataset**
+- **UIEBD dataset**   *Water-Net*
 
   [![📄]][Paper UIEBD dataset]
     
@@ -30,7 +30,7 @@
     
   <br>
 
-- **SQUID dataset**
+- **SQUID dataset**   *Underwater-HL*
 
   [![📄]][Paper SQUID dataset]
     
@@ -40,7 +40,7 @@
     
   <br>
 
-- **U-45**
+- **U-45**   *UDAE*
 
   [![📄]][Paper U-45]
     
@@ -48,7 +48,7 @@
     
   <br>
 
-- **RUIE benchmark**
+- **RUIE benchmark**   *RUIE-Net*
 
   [![📄]][Paper RUIE benchmark]
     
@@ -56,7 +56,7 @@
     
   <br>
 
-- **Jamaica port royal**
+- **Jamaica port royal**   *Water-GAN*
 
   [![📄]][Paper Jamaica port royal]
     
@@ -66,7 +66,7 @@
     
   <br>
 
-- **Virtual periscope**
+- **Virtual periscope**   
 
   [![📄]][Paper Virtual periscope]
     
@@ -74,13 +74,13 @@
     
   <br>
 
-- **Color correction**
+- **Color correction**   
 
   [![🗄]][Data Color correction]
     
   <br>
 
-- **Color restoration**
+- **Color restoration**   
 
   [![📄]][Paper Color restoration]
     
@@ -90,7 +90,7 @@
     
   <br>
 
-- **TURBID data**
+- **TURBID data**   
 
   [![📄]][Paper TURBID data]
     
@@ -98,7 +98,7 @@
     
   <br>
 
-- **OceanDark dataset**
+- **OceanDark dataset**   
 
   [![📄]][Paper OceanDark dataset]
     
@@ -115,7 +115,7 @@
 
 ## SISR : Single Image Super-Resolution
 
-- **USR-248**
+- **USR-248**   *for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN*
 
   [![📄]][Paper USR-248]
     
@@ -134,7 +134,7 @@
 
 ## SESR : Simultaneous Enhancement and Super-Resolution
 
-- **UFO-120**
+- **UFO-120**   *for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR*
 
   [![📄]][Paper UFO-120]
     
@@ -153,7 +153,7 @@
 
 ## Image Segmentation
 
-- **SUIM**
+- **SUIM**   *SUIM-Net*
 
   [![📄]][Paper SUIM]
     
@@ -163,7 +163,7 @@
     
   <br>
 
-- **Coral-Net**
+- **Coral-Net**   *Coral-Seg*
 
   [![📄]][Paper Coral-Net]
     
@@ -173,7 +173,7 @@
     
   <br>
 
-- **Eilat dataset**
+- **Eilat dataset**   
 
   [![📄]][Paper Eilat dataset]
     
@@ -181,7 +181,7 @@
     
   <br>
 
-- **Change detection**
+- **Change detection**   
 
   [![📄]][Paper Change detection]
     
@@ -198,7 +198,7 @@
 
 ## SOD : Salient Object Detection
 
-- **UFO-120**
+- **UFO-120**   
 
   [![📄]][Paper UFO-120]
     
@@ -208,7 +208,7 @@
     
   <br>
 
-- **MUED database**
+- **MUED database**   
 
   [![📄]][Paper MUED database]
     
@@ -229,43 +229,43 @@
 
 ### General
 
-- **MOUSS data**
+- **MOUSS data**   *CVPR 2018 workshop challenge*
 
   [![🗄]][Data MOUSS data]
     
   <br>
 
-- **MBARI databse**
+- **MBARI databse**   
 
   [![🗄]][Data MBARI databse]
     
   <br>
 
-- **HabCam database**
+- **HabCam database**   
 
   [![🗄]][Data HabCam database]
     
   <br>
 
-- **OUC-vision**
+- **OUC-vision**   
 
   [![📄]][Paper OUC-vision]
     
   <br>
 
-- **MARIS project**
+- **MARIS project**   
 
   [![🗄]][Data MARIS project]
     
   <br>
 
-- **NOAA data**
+- **NOAA data**   
 
   [![🗄]][Data NOAA data]
     
   <br>
 
-- **Aqualoc dataset**
+- **Aqualoc dataset**   *visual-inertial-pressure localization*
 
   [![📄]][Paper Aqualoc dataset]
     
@@ -273,7 +273,7 @@
     
   <br>
 
-- **Brackish dataset**
+- **Brackish dataset**   
 
   [![📄]][Paper Brackish dataset]
     
@@ -281,13 +281,13 @@
     
   <br>
 
-- **SUN database**
+- **SUN database**   *underwater scenes*
 
   [![🗄]][Data SUN database]
     
   <br>
 
-- **FathomNet**
+- **FathomNet**   *image database*
 
   [![🗄]][Data FathomNet]
     
@@ -299,7 +299,7 @@
 
 ### Human-robot cooperation
 
-- **Diver detection**
+- **Diver detection**   
 
   [![📄]][Paper Diver detection]
     
@@ -307,7 +307,7 @@
     
   <br>
 
-- **Robot tracking by detection**
+- **Robot tracking by detection**   
 
   [![📄]][Paper Robot tracking by detection]
     
@@ -315,7 +315,7 @@
     
   <br>
 
-- **CADDY diver pose data**
+- **CADDY diver pose data**   
 
   [![📄]][Paper CADDY diver pose data]
     
@@ -329,7 +329,7 @@
 
 ### Coral-reef
 
-- **Moorea corals**
+- **Moorea corals**   *UCSD*
 
   [![📄]][Paper Moorea corals]
     
@@ -337,13 +337,13 @@
     
   <br>
 
-- **Coral-reef Puerto Rico**
+- **Coral-reef Puerto Rico**   
 
   [![🗄]][Data Coral-reef Puerto Rico]
     
   <br>
 
-- **Coral-Net**
+- **Coral-Net**   
 
   [![🗄]][Data Coral-Net]
     
@@ -355,7 +355,7 @@
 
 ### Fish
 
-- **WildFish database**
+- **WildFish database**   
 
   [![📄]][Paper WildFish database]
     
@@ -363,7 +363,7 @@
     
   <br>
 
-- **Labeled fishes**
+- **Labeled fishes**   
 
   [![📄]][Paper Labeled fishes]
     
@@ -371,31 +371,31 @@
     
   <br>
 
-- **Fish4Knowledge data**
+- **Fish4Knowledge data**   
 
   [![🗄]][Data Fish4Knowledge data]
     
   <br>
 
-- **Fish database**
+- **Fish database**   
 
   [![🗄]][Data Fish database]
     
   <br>
 
-- **AQUALIFEIMAGES database**
+- **AQUALIFEIMAGES database**   
 
   [![🗄]][Data AQUALIFEIMAGES database]
     
   <br>
 
-- **Rockfish**
+- **Rockfish**   
 
   [![🗄]][Data Rockfish]
     
   <br>
 
-- **Fish recognition data**
+- **Fish recognition data**   
 
   [![📄]][Paper Fish recognition data]
     
@@ -403,13 +403,13 @@
     
   <br>
 
-- **Oceanwide images**
+- **Oceanwide images**   
 
   [![🗄]][Data Oceanwide images]
     
   <br>
 
-- **Fish detection and tracking**
+- **Fish detection and tracking**   
 
   [![📄]][Paper Fish detection and tracking]
     
@@ -417,7 +417,7 @@
     
   <br>
 
-- **Fish trajectory detection**
+- **Fish trajectory detection**   
 
   [![📄]][Paper Fish trajectory detection]
     
@@ -431,7 +431,7 @@
 
 ### Trash and marine debris
 
-- **TrashCan**
+- **TrashCan**   
 
   [![📄]][Paper TrashCan]
     
@@ -439,7 +439,7 @@
     
   <br>
 
-- **Trash-ICRA19**
+- **Trash-ICRA19**   
 
   [![📄]][Paper Trash-ICRA19]
     
@@ -447,7 +447,7 @@
     
   <br>
 
-- **Deep-sea debris database**
+- **Deep-sea debris database**   
 
   [![📄]][Paper Deep-sea debris database]
     
@@ -455,7 +455,7 @@
     
   <br>
 
-- **Tiny plastics posing threat to turtles**
+- **Tiny plastics posing threat to turtles**   
 
   [![📄]][Paper Tiny plastics posing threat to turtles]
     
@@ -469,7 +469,7 @@
 
 ### Acoustic Data
 
-- **Five-element acoustic dataset**
+- **Five-element acoustic dataset**   
 
   [![📄]][Paper Five-element acoustic dataset]
     
@@ -477,7 +477,7 @@
     
   <br>
 
-- **DIDSON dataset**
+- **DIDSON dataset**   
 
   [![📄]][Paper DIDSON dataset]
     
@@ -489,7 +489,7 @@
     
   <br>
 
-- **Spectrogram Analysis**
+- **Spectrogram Analysis**   
 
   [![📄]][Paper Spectrogram Analysis]
     
@@ -497,7 +497,7 @@
     
   <br>
 
-- **Caves sonar and vision data**
+- **Caves sonar and vision data**   
 
   [![📄]][Paper Caves sonar and vision data]
     
@@ -511,7 +511,7 @@
 
 ### Stereo Data
 
-- **Tasmania coral point**
+- **Tasmania coral point**   *Scott reef-25, O'Hara-7*
 
   [![📄]][Paper Tasmania coral point]
     
@@ -519,7 +519,7 @@
     
   <br>
 
-- **Stereo from Flicker**
+- **Stereo from Flicker**   
 
   [![📄]][Paper Stereo from Flicker]
     
@@ -527,7 +527,7 @@
     
   <br>
 
-- **CADDY stereo data**
+- **CADDY stereo data**   
 
   [![📄]][Paper CADDY stereo data]
     
@@ -535,7 +535,7 @@
     
   <br>
 
-- **HIMB data for UWStereoNet**
+- **HIMB data for UWStereoNet**   *UW-StereoNet*
 
   [![📄]][Paper HIMB data for UWStereoNet]
     
@@ -543,7 +543,7 @@
     
   <br>
 
-- **SQUID dataset**
+- **SQUID dataset**   
 
   [![📄]][Paper SQUID dataset]
     
@@ -557,7 +557,7 @@
 
 ### Docking Data
 
-- **Underwater Docking Images Dataset**
+- **Underwater Docking Images Dataset**   *UDID*
 
   [![📄]][Paper Underwater Docking Images Dataset]
     
@@ -571,7 +571,7 @@
 
 ### Temperature Data
 
-- **Underwater temperature dataset**
+- **Underwater temperature dataset**   
 
   [![🗄]][Data Underwater temperature dataset]
     

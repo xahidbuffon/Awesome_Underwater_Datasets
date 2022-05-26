@@ -77,7 +77,13 @@ function makeCategory(data,isSubcategory = false){
 
 
 function makeItem(data){
-    content.push(`- **${ data.name }**`,'');
+    
+    let { description } = data;
+
+    if(description)
+        description = `*${ description }*`;
+    
+    content.push(`- **${ data.name }**   ${ description ?? '' }`,'');
     
     let line = [];
     
