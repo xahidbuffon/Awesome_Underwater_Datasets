@@ -109,7 +109,7 @@ function makeItem(data){
     
     
     links.push('');
-    content.push(line.map((item) => '  ' + item).join('\n'),'  <br>','')
+    content.push(line.map((item) => '  ' + item).join('\n'),'  <br>','  <br>','')
 }
 
 
