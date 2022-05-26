@@ -62,7 +62,7 @@
             paper : https://www.mdpi.com/2313-433X/5/10/79
 
 
--   name : SISR : Single Image Super-Resolution
+-   name : 'SISR : Single Image Super-Resolution'
     items:
         -   name : USR-248
             description : for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN
@@ -71,7 +71,7 @@
             code : https://github.com/xahidbuffon/srdrm
 
 
--   name : SESR : Simultaneous Enhancement and Super-Resolution
+-   name : 'SESR : Simultaneous Enhancement and Super-Resolution'
     items:
         -   name : UFO-120
             description : for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR
@@ -103,7 +103,7 @@
             paper : https://ieeexplore.ieee.org/document/7761129
 
 
--   name : SOD : Salient Object Detection
+-   name : 'SOD : Salient Object Detection'
     items:
         -   name : UFO-120
             data : http://irvlab.cs.umn.edu/resources/ufo-120-dataset
