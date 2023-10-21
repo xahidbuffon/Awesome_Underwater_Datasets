@@ -15,6 +15,9 @@
 ## SISR: Single Image Super-Resolution
 - USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN)
 
+## RGB-D: Monocular Depth Estimation
+- USOD10k: [Data](https://github.com/LinHong-HIT/USOD10K), [Paper](https://ieeexplore.ieee.org/document/10102831). [UDepth paper](https://ieeexplore.ieee.org/abstract/document/10161471)
+
 
 ## SESR: Simultaneous Enhancement and Super-Resolution
 - UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR). (for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR)
@@ -28,6 +31,7 @@
 
 
 ## SOD: Salient Object Detection
+- USOD10k: [Data](https://github.com/LinHong-HIT/USOD10K), [Paper](https://ieeexplore.ieee.org/document/10102831).
 - UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR)
 - MUED database: [Data-1](https://zenodo.org/record/2542305#.X0YMt3UzY5k), [Data-2](https://zenodo.org/record/2542307#.X0YM53UzY5k), [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494619302169)
 
