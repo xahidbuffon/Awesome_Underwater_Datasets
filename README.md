@@ -15,6 +15,9 @@
 ## SISR: Single Image Super-Resolution
 - USR-248: [Data](http://irvlab.cs.umn.edu/resources/usr-248-dataset), [Paper](https://arxiv.org/abs/1909.09437), [Code](https://github.com/xahidbuffon/srdrm). (for 2x, 4x, and 8x training; SRDRM, SRDRM-GAN)
 
+## RGB-D: Monocular Depth Estimation
+- USOD10k: [Data](https://github.com/LinHong-HIT/USOD10K), [Paper](https://ieeexplore.ieee.org/document/10102831). [UDepth paper](https://ieeexplore.ieee.org/abstract/document/10161471)
+
 
 ## SESR: Simultaneous Enhancement and Super-Resolution
 - UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR). (for 2x, 3x, and 4x SESR and saliency prediction; Deep SESR)
@@ -24,11 +27,13 @@
 - UIIS: [Data](https://drive.google.com/file/d/1MwGvsr2kJgKBGbU3zoZlXiqSSiP1ysGR/view?usp=sharing), [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Lian_WaterMask_Instance_Segmentation_for_Underwater_Imagery_ICCV_2023_paper.html), [Code](https://github.com/LiamLian0727/WaterMask). (WaterMask)
 - SUIM: [Data](http://irvlab.cs.umn.edu/resources/suim-dataset), [Paper](https://arxiv.org/pdf/2004.01241.pdf), [Code](https://github.com/xahidbuffon/SUIM-Net). (SUIM-Net)
 - Coral-Net: [Data](https://coralnet.ucsd.edu/), [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915), [Code](https://github.com/Shathe/CoralSeg). (Coral-Seg)
-- Eilat dataset: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
+- Eilat: [Data](https://sites.google.com/a/unizar.es/semanticseg/), [Paper](https://www.nature.com/articles/srep23166.pdf).
 - Change detection: [Data](http://underwaterchangedetection.eu/index.html), [Paper](https://ieeexplore.ieee.org/document/7761129).
+- LIACI: [Data](https://liaci.sintef.cloud/), [Paper](https://ieeexplore.ieee.org/document/9998080).
 
 
 ## SOD: Salient Object Detection
+- USOD10k: [Data](https://github.com/LinHong-HIT/USOD10K), [Paper](https://ieeexplore.ieee.org/document/10102831).
 - UFO-120: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/pdf/2002.01155.pdf), [Code](https://github.com/xahidbuffon/Deep-SESR)
 - MUED database: [Data-1](https://zenodo.org/record/2542305#.X0YMt3UzY5k), [Data-2](https://zenodo.org/record/2542307#.X0YM53UzY5k), [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494619302169)
 
